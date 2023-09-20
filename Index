@@ -1,1 +1,3 @@
-
+// Adjust canvas size for mobile
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
